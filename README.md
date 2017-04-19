@@ -1,9 +1,14 @@
-# api documentation for  [react-native-image-picker (v0.26.2)](https://github.com/marcshilling/react-native-image-picker#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-image-picker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-image-picker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-image-picker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-image-picker)
+# npmdoc-react-native-image-picker
+
+#### api documentation for  [react-native-image-picker (v0.26.3)](https://github.com/marcshilling/react-native-image-picker#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-image-picker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-image-picker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-image-picker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-image-picker)
+
 #### A React Native module that allows you to use native UI to select media from the device library or directly from the camera
 
-[![NPM](https://nodei.co/npm/react-native-image-picker.png?downloads=true)](https://www.npmjs.com/package/react-native-image-picker)
+[![NPM](https://nodei.co/npm/react-native-image-picker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-image-picker)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-image-picker_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-image-picker/build/screenCapture.npmPackageListing.svg)
 
@@ -25,16 +30,13 @@
     },
     "contributors": [
         {
-            "name": "Matheus Santos",
-            "email": "vorj.dux@gmail.com"
+            "name": "Matheus Santos"
         },
         {
-            "name": "Yoann Fuks",
-            "email": "yfuks@student.42.fr"
+            "name": "Yoann Fuks"
         },
         {
-            "name": "Alexander Ustinov",
-            "email": "rusfearuth@gmail.com"
+            "name": "Alexander Ustinov"
         }
     ],
     "dependencies": {},
@@ -42,10 +44,10 @@
     "devDependencies": {},
     "directories": {},
     "dist": {
-        "shasum": "1280627d61438027284c97d0a8892b7d3777f2e3",
-        "tarball": "https://registry.npmjs.org/react-native-image-picker/-/react-native-image-picker-0.26.2.tgz"
+        "shasum": "0ad2eede49501a7046d8046a73813696539c3dcd",
+        "tarball": "https://registry.npmjs.org/react-native-image-picker/-/react-native-image-picker-0.26.3.tgz"
     },
-    "gitHead": "62cf9edbde45240a75b45c789042c9db488c6b76",
+    "gitHead": "30e15492b304ecac42ca4e9cad23a2c6f1c2dcfe",
     "homepage": "https://github.com/marcshilling/react-native-image-picker#readme",
     "keywords": [
         "react-native",
@@ -58,22 +60,18 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "marcshilling",
-            "email": "marcshilling@gmail.com"
+            "name": "marcshilling"
         },
         {
-            "name": "vorjdux",
-            "email": "vorj.dux@gmail.com"
+            "name": "vorjdux"
         },
         {
-            "name": "yfuks",
-            "email": "yoannfuks@hotmail.fr"
+            "name": "yfuks"
         }
     ],
     "name": "react-native-image-picker",
     "nativePackage": true,
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/marcshilling/react-native-image-picker.git"
@@ -82,19 +80,9 @@
         "prepublish": "rm -rf android/build Example/android/build Example/android/app/build node_modules"
     },
     "types": "./index.d.ts",
-    "version": "0.26.2"
+    "version": "0.26.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-image-picker](#apidoc.module.react-native-image-picker)
-
-
-
-# <a name="apidoc.module.react-native-image-picker"></a>[module react-native-image-picker](#apidoc.module.react-native-image-picker)
 
 
 
